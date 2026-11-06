@@ -1,0 +1,119 @@
+[
+ {
+  "id": "sg-ntu",
+  "name": "NTU campus",
+  "city": "Singapore",
+  "airport": "SIN",
+  "lat": 1.3483,
+  "lon": 103.6831,
+  "isCampus": true
+ },
+ {
+  "id": "sg-nus",
+  "name": "NUS campus",
+  "city": "Singapore",
+  "airport": "SIN",
+  "lat": 1.2966,
+  "lon": 103.7764,
+  "isCampus": true
+ },
+ {
+  "id": "sg-mbs-expo",
+  "name": "Marina Bay expo centre",
+  "city": "Singapore",
+  "airport": "SIN",
+  "lat": 1.2834,
+  "lon": 103.8607
+ },
+ {
+  "id": "sg-suntec",
+  "name": "Suntec convention centre",
+  "city": "Singapore",
+  "airport": "SIN",
+  "lat": 1.2936,
+  "lon": 103.8573
+ },
+ {
+  "id": "th-qsncc",
+  "name": "Queen Sirikit convention centre",
+  "city": "Bangkok",
+  "airport": "BKK",
+  "lat": 13.7236,
+  "lon": 100.559
+ },
+ {
+  "id": "th-tdp",
+  "name": "True Digital Park",
+  "city": "Bangkok",
+  "airport": "BKK",
+  "lat": 13.6851,
+  "lon": 100.611
+ },
+ {
+  "id": "th-chula",
+  "name": "Chulalongkorn University",
+  "city": "Bangkok",
+  "airport": "BKK",
+  "lat": 13.7384,
+  "lon": 100.532,
+  "isCampus": true
+ },
+ {
+  "id": "my-klcc",
+  "name": "KL convention centre",
+  "city": "Kuala Lumpur",
+  "airport": "KUL",
+  "lat": 3.153,
+  "lon": 101.7134
+ },
+ {
+  "id": "my-apu",
+  "name": "APU campus",
+  "city": "Kuala Lumpur",
+  "airport": "KUL",
+  "lat": 3.0553,
+  "lon": 101.7006,
+  "isCampus": true
+ },
+ {
+  "id": "hk-hkcec",
+  "name": "Wan Chai convention centre",
+  "city": "Hong Kong",
+  "airport": "HKG",
+  "lat": 22.2829,
+  "lon": 114.1736
+ },
+ {
+  "id": "hk-cyberport",
+  "name": "Cyberport",
+  "city": "Hong Kong",
+  "airport": "HKG",
+  "lat": 22.2614,
+  "lon": 114.1305
+ },
+ {
+  "id": "tw-nangang",
+  "name": "Nangang exhibition centre",
+  "city": "Taipei",
+  "airport": "TPE",
+  "lat": 25.056,
+  "lon": 121.617
+ },
+ {
+  "id": "tw-ntu",
+  "name": "National Taiwan University",
+  "city": "Taipei",
+  "airport": "TPE",
+  "lat": 25.0173,
+  "lon": 121.5397,
+  "isCampus": true
+ },
+ {
+  "id": "ph-smx",
+  "name": "SMX convention centre",
+  "city": "Manila",
+  "airport": "MNL",
+  "lat": 14.5352,
+  "lon": 120.9822
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "code": "SIN",
+  "name": "Changi",
+  "city": "Singapore",
+  "country": "SG",
+  "tz": "Asia/Singapore",
+  "lat": 1.3644,
+  "lon": 103.9915
+ },
+ {
+  "code": "BKK",
+  "name": "Suvarnabhumi",
+  "city": "Bangkok",
+  "country": "TH",
+  "tz": "Asia/Bangkok",
+  "lat": 13.69,
+  "lon": 100.7501
+ },
+ {
+  "code": "KUL",
+  "name": "Kuala Lumpur International",
+  "city": "Kuala Lumpur",
+  "country": "MY",
+  "tz": "Asia/Kuala_Lumpur",
+  "lat": 2.7456,
+  "lon": 101.7099
+ },
+ {
+  "code": "HKG",
+  "name": "Hong Kong International",
+  "city": "Hong Kong",
+  "country": "HK",
+  "tz": "Asia/Hong_Kong",
+  "lat": 22.308,
+  "lon": 113.9185
+ },
+ {
+  "code": "TPE",
+  "name": "Taoyuan",
+  "city": "Taipei",
+  "country": "TW",
+  "tz": "Asia/Taipei",
+  "lat": 25.0797,
+  "lon": 121.2342
+ },
+ {
+  "code": "MNL",
+  "name": "Ninoy Aquino International",
+  "city": "Manila",
+  "country": "PH",
+  "tz": "Asia/Manila",
+  "lat": 14.5086,
+  "lon": 121.0198
+ }
+]

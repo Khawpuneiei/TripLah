@@ -1,0 +1,34 @@
+{
+  "search_metadata": { "status": "Success" },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Singapore Changi Airport", "id": "SIN", "time": "2026-11-20 07:05" },
+          "arrival_airport": { "name": "Suvarnabhumi Airport", "id": "BKK", "time": "2026-11-20 08:30" },
+          "duration": 145, "airline": "Example Air", "travel_class": "Economy", "flight_number": "TR 612"
+        }
+      ],
+      "total_duration": 145, "price": 182, "type": "One way"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": { "name": "Singapore Changi Airport", "id": "SIN", "time": "2026-11-20 06:30" },
+          "arrival_airport": { "name": "Kuala Lumpur International Airport", "id": "KUL", "time": "2026-11-20 07:30" },
+          "duration": 60, "airline": "Example Asia", "flight_number": "AK 700"
+        },
+        {
+          "departure_airport": { "name": "Kuala Lumpur International Airport", "id": "KUL", "time": "2026-11-20 09:00" },
+          "arrival_airport": { "name": "Suvarnabhumi Airport", "id": "BKK", "time": "2026-11-20 10:05" },
+          "duration": 125, "airline": "Example Asia", "flight_number": "AK 880"
+        }
+      ],
+      "layovers": [ { "duration": 90, "name": "Kuala Lumpur International Airport", "id": "KUL" } ],
+      "total_duration": 275, "price": 151, "type": "One way"
+    },
+    { "flights": [], "price": 99 }
+  ]
+}

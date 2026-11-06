@@ -1,0 +1,17 @@
+[
+  {
+    "number": "TR 612",
+    "status": "Expected",
+    "departure": {
+      "airport": { "iata": "SIN", "name": "Singapore Changi" },
+      "scheduledTime": { "utc": "2026-11-19 23:05Z", "local": "2026-11-20 07:05+08:00" },
+      "revisedTime": { "utc": "2026-11-20 01:05Z", "local": "2026-11-20 09:05+08:00" }
+    },
+    "arrival": {
+      "airport": { "iata": "BKK", "name": "Bangkok Suvarnabhumi" },
+      "scheduledTime": { "utc": "2026-11-20 01:30Z", "local": "2026-11-20 08:30+07:00" },
+      "revisedTime": { "utc": "2026-11-20 03:30Z", "local": "2026-11-20 10:30+07:00" }
+    },
+    "airline": { "name": "Example Air", "iata": "TR" }
+  }
+]

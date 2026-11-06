@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "currency": "sgd",
+  "data": [
+    { "origin": "SIN", "destination": "BKK", "origin_airport": "SIN", "destination_airport": "BKK", "price": 96, "airline": "TR", "flight_number": "612", "departure_at": "2026-11-20T07:05:00+08:00", "transfers": 0, "duration": 145, "link": "/search/SIN2011BKK1" },
+    { "origin": "SIN", "destination": "BKK", "origin_airport": "SIN", "destination_airport": "BKK", "price": 121, "airline": "FD", "flight_number": "306", "departure_at": "2026-11-20T00:45:00+08:00", "transfers": 0, "duration": 145, "link": "/search/SIN2011BKK1" },
+    { "origin": "SIN", "destination": "BKK", "origin_airport": "SIN", "destination_airport": "DMK", "price": 88, "airline": "FD", "flight_number": "308", "departure_at": "2026-11-21T10:15:00+08:00", "transfers": 0, "duration": 150, "link": "/search/SIN2111BKK1" }
+  ]
+}

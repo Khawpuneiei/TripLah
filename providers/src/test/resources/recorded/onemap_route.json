@@ -1,0 +1,8 @@
+{
+  "requestParameters": { "mode": "TRANSIT", "routeType": "pt" },
+  "plan": {
+    "itineraries": [
+      { "duration": 2280, "walkTime": 540, "transitTime": 1500, "waitingTime": 240, "transfers": 1, "legs": [] }
+    ]
+  }
+}

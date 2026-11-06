@@ -1,0 +1,3022 @@
+{
+ "data": [
+  {
+   "hotelId": "lp6557c31b",
+   "roomTypes": [
+    {
+     "offerId": "lp6557c31b-rt0",
+     "offerRetailRate": {
+      "amount": 94.05,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Executive Duplex Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 94.05,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557c31b-rt1",
+     "offerRetailRate": {
+      "amount": 99.27,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Family Duplex",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 99.27,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557c31b-rt2",
+     "offerRetailRate": {
+      "amount": 101.7,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Executive Duplex",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 101.7,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp656bbd6f",
+   "roomTypes": [
+    {
+     "offerId": "lp656bbd6f-rt0",
+     "offerRetailRate": {
+      "amount": 72.73,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Lumen Deluxe King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 72.73,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656bbd6f-rt1",
+     "offerRetailRate": {
+      "amount": 73.09,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Lumen Deluxe King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 73.09,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656bbd6f-rt2",
+     "offerRetailRate": {
+      "amount": 79.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Lumen Deluxe King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 79.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp743f1",
+   "roomTypes": [
+    {
+     "offerId": "lp743f1-rt0",
+     "offerRetailRate": {
+      "amount": 42.29,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 42.29,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp743f1-rt1",
+     "offerRetailRate": {
+      "amount": 47.18,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 47.18,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp743f1-rt2",
+     "offerRetailRate": {
+      "amount": 47.64,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 47.64,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp656c58c1",
+   "roomTypes": [
+    {
+     "offerId": "lp656c58c1-rt0",
+     "offerRetailRate": {
+      "amount": 146.34,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio with Balcony, Studio, 1 King, City view, Balcony",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 146.34,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c58c1-rt1",
+     "offerRetailRate": {
+      "amount": 155.49,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio with Balcony, Studio, 1 King, City view, Balcony",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 155.49,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c58c1-rt2",
+     "offerRetailRate": {
+      "amount": 155.97,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Deluxe, Studio, 1 King, City view",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 155.97,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6e136",
+   "roomTypes": [
+    {
+     "offerId": "lp6e136-rt0",
+     "offerRetailRate": {
+      "amount": 58.36,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One Bedroom Suite -- City View (55 sqm)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 58.36,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6e136-rt1",
+     "offerRetailRate": {
+      "amount": 58.66,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One Bedroom Suite -- City View (55 sqm)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 58.66,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6e136-rt2",
+     "offerRetailRate": {
+      "amount": 60.48,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One Bedroom Suite - City View (Double)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 60.48,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6705d",
+   "roomTypes": [
+    {
+     "offerId": "lp6705d-rt0",
+     "offerRetailRate": {
+      "amount": 43.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 43.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6705d-rt1",
+     "offerRetailRate": {
+      "amount": 48.93,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 48.93,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6705d-rt2",
+     "offerRetailRate": {
+      "amount": 54.96,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 54.96,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6557de77",
+   "roomTypes": [
+    {
+     "offerId": "lp6557de77-rt0",
+     "offerRetailRate": {
+      "amount": 43.9,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 43.9,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557de77-rt1",
+     "offerRetailRate": {
+      "amount": 44.08,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 44.08,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557de77-rt2",
+     "offerRetailRate": {
+      "amount": 46.08,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 46.08,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lpbad97",
+   "roomTypes": [
+    {
+     "offerId": "lpbad97-rt0",
+     "offerRetailRate": {
+      "amount": 23.71,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 23.71,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpbad97-rt1",
+     "offerRetailRate": {
+      "amount": 23.8,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 23.8,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpbad97-rt2",
+     "offerRetailRate": {
+      "amount": 25.37,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 25.37,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp1f767e",
+   "roomTypes": [
+    {
+     "offerId": "lp1f767e-rt0",
+     "offerRetailRate": {
+      "amount": 130.94,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 130.94,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp1f767e-rt1",
+     "offerRetailRate": {
+      "amount": 133.27,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 133.27,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp1f767e-rt2",
+     "offerRetailRate": {
+      "amount": 137.77,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 137.77,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp655826c4",
+   "roomTypes": [
+    {
+     "offerId": "lp655826c4-rt0",
+     "offerRetailRate": {
+      "amount": 29.61,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 29.61,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp655826c4-rt1",
+     "offerRetailRate": {
+      "amount": 29.76,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 29.76,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp655826c4-rt2",
+     "offerRetailRate": {
+      "amount": 33.65,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.65,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp97ac1",
+   "roomTypes": [
+    {
+     "offerId": "lp97ac1-rt0",
+     "offerRetailRate": {
+      "amount": 33.5,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Comfort Triple Room with Shower",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.5,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp97ac1-rt1",
+     "offerRetailRate": {
+      "amount": 35.27,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Comfort Triple Room with Shower",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 35.27,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp97ac1-rt2",
+     "offerRetailRate": {
+      "amount": 40.43,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Triple Room with Shower",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 40.43,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp71d94",
+   "roomTypes": [
+    {
+     "offerId": "lp71d94-rt0",
+     "offerRetailRate": {
+      "amount": 50.52,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 50.52,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp71d94-rt1",
+     "offerRetailRate": {
+      "amount": 50.74,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 50.74,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp71d94-rt2",
+     "offerRetailRate": {
+      "amount": 50.78,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 50.78,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp810f0",
+   "roomTypes": [
+    {
+     "offerId": "lp810f0-rt0",
+     "offerRetailRate": {
+      "amount": 36.44,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room : Double/Twin Non Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 36.44,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp810f0-rt1",
+     "offerRetailRate": {
+      "amount": 36.45,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Room : Double/Twin Non Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 36.45,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp810f0-rt2",
+     "offerRetailRate": {
+      "amount": 38.29,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Double or Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 38.29,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lpb5d7f",
+   "roomTypes": [
+    {
+     "offerId": "lpb5d7f-rt0",
+     "offerRetailRate": {
+      "amount": 92.59,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Premier King",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 92.59,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpb5d7f-rt1",
+     "offerRetailRate": {
+      "amount": 93.07,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Premier King",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 93.07,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpb5d7f-rt2",
+     "offerRetailRate": {
+      "amount": 99.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Premier King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 99.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp65581324",
+   "roomTypes": [
+    {
+     "offerId": "lp65581324-rt0",
+     "offerRetailRate": {
+      "amount": 46.81,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 46.81,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65581324-rt1",
+     "offerRetailRate": {
+      "amount": 54.4,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 54.4,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65581324-rt2",
+     "offerRetailRate": {
+      "amount": 58.42,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 58.42,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6ebea",
+   "roomTypes": [
+    {
+     "offerId": "lp6ebea-rt0",
+     "offerRetailRate": {
+      "amount": 43.72,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 43.72,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6ebea-rt1",
+     "offerRetailRate": {
+      "amount": 45.91,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 45.91,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6ebea-rt2",
+     "offerRetailRate": {
+      "amount": 48.31,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 48.31,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp9397a",
+   "roomTypes": [
+    {
+     "offerId": "lp9397a-rt0",
+     "offerRetailRate": {
+      "amount": 94.26,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 94.26,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp9397a-rt1",
+     "offerRetailRate": {
+      "amount": 94.74,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 94.74,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp9397a-rt2",
+     "offerRetailRate": {
+      "amount": 103.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "King room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 103.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp65578bfe",
+   "roomTypes": [
+    {
+     "offerId": "lp65578bfe-rt0",
+     "offerRetailRate": {
+      "amount": 60.57,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 60.57,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65578bfe-rt1",
+     "offerRetailRate": {
+      "amount": 60.82,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 60.82,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65578bfe-rt2",
+     "offerRetailRate": {
+      "amount": 61.7,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 61.7,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp4fddf",
+   "roomTypes": [
+    {
+     "offerId": "lp4fddf-rt0",
+     "offerRetailRate": {
+      "amount": 23.5,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "SUPERIOR",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 23.5,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp4fddf-rt1",
+     "offerRetailRate": {
+      "amount": 26.57,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 26.57,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp4fddf-rt2",
+     "offerRetailRate": {
+      "amount": 26.57,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 26.57,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6557ba8e",
+   "roomTypes": [
+    {
+     "offerId": "lp6557ba8e-rt0",
+     "offerRetailRate": {
+      "amount": 87.78,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One Bedroom Premier Suite Queen",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 87.78,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557ba8e-rt1",
+     "offerRetailRate": {
+      "amount": 88.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One Bedroom Premier Suite Queen",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 88.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6557ba8e-rt2",
+     "offerRetailRate": {
+      "amount": 97.26,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "One-Bedroom Premier Queen Suite",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 97.26,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp86cff",
+   "roomTypes": [
+    {
+     "offerId": "lp86cff-rt0",
+     "offerRetailRate": {
+      "amount": 6.18,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Upper Bunk Bed - Non-Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 6.18,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp86cff-rt1",
+     "offerRetailRate": {
+      "amount": 6.21,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Upper Bunk Bed - Non-Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 6.21,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp86cff-rt2",
+     "offerRetailRate": {
+      "amount": 6.71,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DOUBLE BUNK BED",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 6.71,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp79a89",
+   "roomTypes": [
+    {
+     "offerId": "lp79a89-rt0",
+     "offerRetailRate": {
+      "amount": 35.68,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 35.68,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp79a89-rt1",
+     "offerRetailRate": {
+      "amount": 39.68,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "STUDIO STANDARD",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 39.68,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp79a89-rt2",
+     "offerRetailRate": {
+      "amount": 40.18,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 40.18,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6b78d",
+   "roomTypes": [
+    {
+     "offerId": "lp6b78d-rt0",
+     "offerRetailRate": {
+      "amount": 60.38,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Room 1 Queen bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 60.38,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6b78d-rt1",
+     "offerRetailRate": {
+      "amount": 60.63,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Room 1 Queen bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 60.63,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6b78d-rt2",
+     "offerRetailRate": {
+      "amount": 65.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 65.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp84f0b",
+   "roomTypes": [
+    {
+     "offerId": "lp84f0b-rt0",
+     "offerRetailRate": {
+      "amount": 92.63,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Tree-Top Nest",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 92.63,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp84f0b-rt1",
+     "offerRetailRate": {
+      "amount": 93.09,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Tree-Top Nest",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 93.09,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp84f0b-rt2",
+     "offerRetailRate": {
+      "amount": 101.31,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Tree Top Nest",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 101.31,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lpb0c51",
+   "roomTypes": [
+    {
+     "offerId": "lpb0c51-rt0",
+     "offerRetailRate": {
+      "amount": 19.8,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 19.8,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpb0c51-rt1",
+     "offerRetailRate": {
+      "amount": 19.88,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 19.88,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpb0c51-rt2",
+     "offerRetailRate": {
+      "amount": 22.45,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Double or Twin SUPERIOR",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 22.45,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp99b27",
+   "roomTypes": [
+    {
+     "offerId": "lp99b27-rt0",
+     "offerRetailRate": {
+      "amount": 30.98,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio A",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 30.98,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp99b27-rt1",
+     "offerRetailRate": {
+      "amount": 31.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio A",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 31.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp656c8823",
+   "roomTypes": [
+    {
+     "offerId": "lp656c8823-rt0",
+     "offerRetailRate": {
+      "amount": 13.82,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Single Room A-Non-Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 13.82,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8823-rt1",
+     "offerRetailRate": {
+      "amount": 13.88,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Single Room A-Non-Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 13.88,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8823-rt2",
+     "offerRetailRate": {
+      "amount": 14.96,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Single Room A - Non-Smoking",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 14.96,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp656c8709",
+   "roomTypes": [
+    {
+     "offerId": "lp656c8709-rt0",
+     "offerRetailRate": {
+      "amount": 11.48,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Hostel French Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 11.48,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8709-rt1",
+     "offerRetailRate": {
+      "amount": 11.53,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Hostel French Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 11.53,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8709-rt2",
+     "offerRetailRate": {
+      "amount": 17.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Bed in Bunk Bed (Mixed Gender)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 17.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp98ec9",
+   "roomTypes": [
+    {
+     "offerId": "lp98ec9-rt0",
+     "offerRetailRate": {
+      "amount": 29.88,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 29.88,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp98ec9-rt1",
+     "offerRetailRate": {
+      "amount": 30.64,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 30.64,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp98ec9-rt2",
+     "offerRetailRate": {
+      "amount": 30.78,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Twin",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 30.78,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp7cdbb",
+   "roomTypes": [
+    {
+     "offerId": "lp7cdbb-rt0",
+     "offerRetailRate": {
+      "amount": 42.18,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Deluxe King",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 42.18,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp7cdbb-rt1",
+     "offerRetailRate": {
+      "amount": 42.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Deluxe King",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 42.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp7cdbb-rt2",
+     "offerRetailRate": {
+      "amount": 44.68,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe King Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 44.68,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp98350",
+   "roomTypes": [
+    {
+     "offerId": "lp98350-rt0",
+     "offerRetailRate": {
+      "amount": 34.69,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 34.69,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp98350-rt1",
+     "offerRetailRate": {
+      "amount": 34.86,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 34.86,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp98350-rt2",
+     "offerRetailRate": {
+      "amount": 38.9,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DOUBLE STANDARD",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 38.9,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp75259",
+   "roomTypes": [
+    {
+     "offerId": "lp75259-rt0",
+     "offerRetailRate": {
+      "amount": 19.05,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 19.05,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp75259-rt1",
+     "offerRetailRate": {
+      "amount": 20.51,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 20.51,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp75259-rt2",
+     "offerRetailRate": {
+      "amount": 22.72,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DOUBLE DELUXE",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 22.72,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp8e041",
+   "roomTypes": [
+    {
+     "offerId": "lp8e041-rt0",
+     "offerRetailRate": {
+      "amount": 39.74,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Type A",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 39.74,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp8e041-rt1",
+     "offerRetailRate": {
+      "amount": 39.94,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio Type A",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 39.94,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp984ac",
+   "roomTypes": [
+    {
+     "offerId": "lp984ac-rt0",
+     "offerRetailRate": {
+      "amount": 19.87,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DELUXE ROOM WITH PRIVATE BATHROOM",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 19.87,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp984ac-rt1",
+     "offerRetailRate": {
+      "amount": 20.01,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DELUXE ROOM WITH PRIVATE BATHROOM",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 20.01,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp984ac-rt2",
+     "offerRetailRate": {
+      "amount": 20.76,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Twin Room With Private Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 20.76,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp901ed",
+   "roomTypes": [
+    {
+     "offerId": "lp901ed-rt0",
+     "offerRetailRate": {
+      "amount": 132.44,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "TRIPLE DELUXE",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 132.44,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp901ed-rt1",
+     "offerRetailRate": {
+      "amount": 147.43,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "TRIPLE DELUXE",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 147.43,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp901ed-rt2",
+     "offerRetailRate": {
+      "amount": 189.84,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Triple Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 189.84,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp81a01",
+   "roomTypes": [
+    {
+     "offerId": "lp81a01-rt0",
+     "offerRetailRate": {
+      "amount": 21.41,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "DOUBLE ECONOMY",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 21.41,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp81a01-rt1",
+     "offerRetailRate": {
+      "amount": 21.41,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "FAMILY ROOM STANDARD",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 21.41,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp81a01-rt2",
+     "offerRetailRate": {
+      "amount": 22.29,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "FAMILY, BUNK BED",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 22.29,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp656c8ae2",
+   "roomTypes": [
+    {
+     "offerId": "lp656c8ae2-rt0",
+     "offerRetailRate": {
+      "amount": 26.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Twin Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 26.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8ae2-rt1",
+     "offerRetailRate": {
+      "amount": 26.9,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Twin Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 26.9,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp656c8ae2-rt2",
+     "offerRetailRate": {
+      "amount": 26.9,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 26.9,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp65578f6c",
+   "roomTypes": [
+    {
+     "offerId": "lp65578f6c-rt0",
+     "offerRetailRate": {
+      "amount": 14.6,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Cabin BUNK BED",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 14.6,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65578f6c-rt1",
+     "offerRetailRate": {
+      "amount": 15.14,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Upper Bunk Mix Gender Capsule",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 15.14,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65578f6c-rt2",
+     "offerRetailRate": {
+      "amount": 15.21,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Upper Bunk Mix Gender Capsule",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 15.21,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp6554cae3",
+   "roomTypes": [
+    {
+     "offerId": "lp6554cae3-rt0",
+     "offerRetailRate": {
+      "amount": 51.99,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Room WITH BALCONY",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 51.99,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6554cae3-rt1",
+     "offerRetailRate": {
+      "amount": 51.99,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "TWIN STANDARD",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 51.99,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp6554cae3-rt2",
+     "offerRetailRate": {
+      "amount": 55.23,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "TWIN DELUXE",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 55.23,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp65880618",
+   "roomTypes": [
+    {
+     "offerId": "lp65880618-rt0",
+     "offerRetailRate": {
+      "amount": 21.51,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Beds + Single Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 21.51,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65880618-rt1",
+     "offerRetailRate": {
+      "amount": 21.51,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Single + Bunk Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 21.51,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp65880618-rt2",
+     "offerRetailRate": {
+      "amount": 21.51,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard King Bed + Single",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 21.51,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp9e47d",
+   "roomTypes": [
+    {
+     "offerId": "lp9e47d-rt0",
+     "offerRetailRate": {
+      "amount": 28.21,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 28.21,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp9e47d-rt1",
+     "offerRetailRate": {
+      "amount": 28.34,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Standard Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 28.34,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp9e47d-rt2",
+     "offerRetailRate": {
+      "amount": 32.63,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Deluxe Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 32.63,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp658640b2",
+   "roomTypes": [
+    {
+     "offerId": "lp658640b2-rt0",
+     "offerRetailRate": {
+      "amount": 5.93,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Bed In 12 Capsule Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 5.93,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp658640b2-rt1",
+     "offerRetailRate": {
+      "amount": 5.95,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Bed In 12 Capsule Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 5.95,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp658640b2-rt2",
+     "offerRetailRate": {
+      "amount": 6.23,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Bed In 6 Capsule Bed",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 6.23,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lpa3b73",
+   "roomTypes": [
+    {
+     "offerId": "lpa3b73-rt0",
+     "offerRetailRate": {
+      "amount": 27.78,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Superior Double Room",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 27.78,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpa3b73-rt1",
+     "offerRetailRate": {
+      "amount": 33.29,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio (Twin Beds)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.29,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lpa3b73-rt2",
+     "offerRetailRate": {
+      "amount": 33.29,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Studio (Double Bed)",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.29,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp948ad",
+   "roomTypes": [
+    {
+     "offerId": "lp948ad-rt0",
+     "offerRetailRate": {
+      "amount": 17.73,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Private Bunk Bed with Private External Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 17.73,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp948ad-rt1",
+     "offerRetailRate": {
+      "amount": 17.73,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Private Bunk Bed with Private External Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 17.73,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp948ad-rt2",
+     "offerRetailRate": {
+      "amount": 17.8,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Private Bunk Bed with Private External Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 17.8,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hotelId": "lp8e009",
+   "roomTypes": [
+    {
+     "offerId": "lp8e009-rt0",
+     "offerRetailRate": {
+      "amount": 30.16,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Quadruple Room with Private Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 30.16,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp8e009-rt1",
+     "offerRetailRate": {
+      "amount": 33.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Quadruple Room with Private Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "offerId": "lp8e009-rt2",
+     "offerRetailRate": {
+      "amount": 33.39,
+      "currency": "SGD"
+     },
+     "rates": [
+      {
+       "name": "Quadruple Room with Private Bathroom",
+       "maxOccupancy": 1,
+       "retailRate": {
+        "total": [
+         {
+          "amount": 33.39,
+          "currency": "SGD"
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

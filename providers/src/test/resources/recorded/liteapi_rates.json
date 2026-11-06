@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "hotelId": "lp1a2b3",
+      "roomTypes": [
+        { "roomTypeId": "rt1", "offerId": "off-pod-1", "offerRetailRate": { "amount": 96.0, "currency": "SGD" },
+          "rates": [ { "rateId": "r1", "name": "Single Pod", "maxOccupancy": 1, "retailRate": { "total": [ { "amount": 96.0, "currency": "SGD" } ] } } ] }
+      ]
+    },
+    {
+      "hotelId": "lp9z8y7",
+      "roomTypes": [
+        { "roomTypeId": "rt2", "offerId": "off-fam-1", "offerRetailRate": { "amount": 820.0, "currency": "SGD" },
+          "rates": [ { "rateId": "r2", "name": "Family Room Harbour View", "maxOccupancy": 4, "retailRate": { "total": [ { "amount": 820.0, "currency": "SGD" } ] } } ] }
+      ]
+    },
+    { "hotelId": "unknown-hotel", "roomTypes": [] }
+  ]
+}

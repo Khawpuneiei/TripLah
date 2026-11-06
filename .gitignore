@@ -1,0 +1,14 @@
+.gradle/
+build/
+*.db
+.env
+.idea/
+node_modules/
+web/dist/
+__pycache__/
+.venv/
+out/
+providers/src/test/resources/recorded/live/
+build-*.db*
+evals/claude_compare_runs.jsonl
+.claude/

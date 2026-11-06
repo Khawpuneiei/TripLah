@@ -1,0 +1,1332 @@
+[
+ {
+  "flightNo": "SQ700",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "SQ702",
+  "days": 90,
+  "operated": 46,
+  "cancelled": 5,
+  "delayedOver60": 21
+ },
+ {
+  "flightNo": "SQ704",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ706",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "SQ708",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "SQ710",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ712",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "SQ714",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "TG400",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "TG402",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "TG404",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "TG406",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "TR600",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR602",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "TR604",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "TR606",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR608",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR610",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "TR612",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR614",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "FD300",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "FD302",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "FD304",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "FD306",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "FD308",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "FD310",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "3K500",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "3K502",
+  "days": 90,
+  "operated": 81,
+  "cancelled": 9,
+  "delayedOver60": 13
+ },
+ {
+  "flightNo": "3K504",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "3K506",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "SQ716",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ718",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ720",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "SQ722",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "SQ724",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ726",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "MH600",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "MH602",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "MH604",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "MH606",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "AK700",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "AK702",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "AK704",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "AK706",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "AK708",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "AK710",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "AK712",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "AK714",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR616",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "TR618",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "TR620",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "TR622",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "CX500",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "CX502",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "CX504",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "CX506",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX508",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "CX510",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "SQ728",
+  "days": 90,
+  "operated": 83,
+  "cancelled": 7,
+  "delayedOver60": 17
+ },
+ {
+  "flightNo": "SQ730",
+  "days": 90,
+  "operated": 81,
+  "cancelled": 9,
+  "delayedOver60": 14
+ },
+ {
+  "flightNo": "SQ732",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "SQ734",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "UO600",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "UO602",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "UO604",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "UO606",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "TR624",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "TR626",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "TR628",
+  "days": 90,
+  "operated": 47,
+  "cancelled": 4,
+  "delayedOver60": 23
+ },
+ {
+  "flightNo": "TR630",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "CI750",
+  "days": 90,
+  "operated": 42,
+  "cancelled": 9,
+  "delayedOver60": 25
+ },
+ {
+  "flightNo": "CI752",
+  "days": 90,
+  "operated": 84,
+  "cancelled": 6,
+  "delayedOver60": 18
+ },
+ {
+  "flightNo": "CI754",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CI756",
+  "days": 90,
+  "operated": 81,
+  "cancelled": 9,
+  "delayedOver60": 27
+ },
+ {
+  "flightNo": "BR200",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "BR202",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "BR204",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "BR206",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "TR632",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR634",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "TR636",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "TR638",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "IT500",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "IT502",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "IT504",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "IT506",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "PR500",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "PR502",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "PR504",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "PR506",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "SQ736",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "SQ738",
+  "days": 90,
+  "operated": 85,
+  "cancelled": 5,
+  "delayedOver60": 29
+ },
+ {
+  "flightNo": "SQ740",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "SQ742",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "5J800",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "5J802",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "5J804",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "5J806",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "5J808",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "5J810",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TR640",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "TR642",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "TR644",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "TR646",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "MH608",
+  "days": 90,
+  "operated": 50,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "MH610",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "MH612",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "MH614",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "TG408",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "TG410",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "FD312",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "FD314",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "FD316",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "FD318",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "FD320",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "FD322",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CX512",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "CX514",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CX516",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CX518",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX520",
+  "days": 90,
+  "operated": 83,
+  "cancelled": 7,
+  "delayedOver60": 29
+ },
+ {
+  "flightNo": "CX522",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TG412",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TG414",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "UO608",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "UO610",
+  "days": 90,
+  "operated": 50,
+  "cancelled": 1,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "UO612",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "UO614",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CI758",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "CI760",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "CI762",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CI764",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "TG416",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "TG418",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "FD324",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "FD326",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "FD328",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "FD330",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "PR508",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "PR510",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "5J812",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "5J814",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "5J816",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "5J818",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX524",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CX526",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "CX528",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "CX530",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "AK716",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "AK718",
+  "days": 90,
+  "operated": 85,
+  "cancelled": 5,
+  "delayedOver60": 27
+ },
+ {
+  "flightNo": "AK720",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "AK722",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "BR208",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "BR210",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "AK724",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "AK726",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "AK728",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "AK730",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "MH616",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "MH618",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "AK732",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "AK734",
+  "days": 90,
+  "operated": 46,
+  "cancelled": 5,
+  "delayedOver60": 23
+ },
+ {
+  "flightNo": "AK736",
+  "days": 90,
+  "operated": 81,
+  "cancelled": 9,
+  "delayedOver60": 25
+ },
+ {
+  "flightNo": "AK738",
+  "days": 90,
+  "operated": 84,
+  "cancelled": 6,
+  "delayedOver60": 19
+ },
+ {
+  "flightNo": "CX532",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "CX534",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX536",
+  "days": 90,
+  "operated": 50,
+  "cancelled": 1,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "CX538",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX540",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "CX542",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "CI766",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "CI768",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "CI770",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 1
+ },
+ {
+  "flightNo": "CI772",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "UO616",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "UO618",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 3
+ },
+ {
+  "flightNo": "UO620",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 7
+ },
+ {
+  "flightNo": "UO622",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "CX544",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 8
+ },
+ {
+  "flightNo": "CX546",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "CX548",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "CX550",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ },
+ {
+  "flightNo": "5J820",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 2
+ },
+ {
+  "flightNo": "5J822",
+  "days": 90,
+  "operated": 81,
+  "cancelled": 9,
+  "delayedOver60": 28
+ },
+ {
+  "flightNo": "5J824",
+  "days": 90,
+  "operated": 51,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "5J826",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 4
+ },
+ {
+  "flightNo": "CI774",
+  "days": 90,
+  "operated": 84,
+  "cancelled": 6,
+  "delayedOver60": 19
+ },
+ {
+  "flightNo": "CI776",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 6
+ },
+ {
+  "flightNo": "5J828",
+  "days": 90,
+  "operated": 90,
+  "cancelled": 0,
+  "delayedOver60": 5
+ },
+ {
+  "flightNo": "5J830",
+  "days": 90,
+  "operated": 89,
+  "cancelled": 1,
+  "delayedOver60": 0
+ }
+]

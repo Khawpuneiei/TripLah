@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "triplah": {
+      "command": "java",
+      "args": ["-jar", "mcp-server/build/libs/triplah-mcp.jar"],
+      "env": {
+        "TRIPLAH_PROVIDERS": "mock",
+        "TRIPLAH_SEED": "seed",
+        "TRIPLAH_DB": "triplah.db"
+      }
+    }
+  }
+}

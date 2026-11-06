@@ -1,0 +1,55 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  kotlin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: "21" }
+      - uses: gradle/actions/setup-gradle@v4
+      # Unit, provider (recorded responses only), guardrail, recheck, MCP and API tests, plus the 30-case eval.
+      # No live provider calls: TRIPLAH_PROVIDERS is unset, so every provider is the seed-data mock.
+      - run: ./gradlew test --no-daemon
+      - run: ./gradlew :evals:run --no-daemon
+      - run: ./gradlew :mcp-server:fatJar --no-daemon
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: eval-report, path: evals/report.md }
+
+  rules-rag:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: rules-rag } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: pytest -q
+
+  web:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: web } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm install --no-audit --no-fund
+      - run: npm run build
+
+  secret-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: gitleaks
+        run: |
+          curl -sSL https://github.com/gitleaks/gitleaks/releases/download/v8.21.2/gitleaks_8.21.2_linux_x64.tar.gz | tar xz gitleaks
+          ./gitleaks detect --source . --redact --verbose --exit-code 1

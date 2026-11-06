@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sg-arrival-card",
+    "title": "Singapore: SG Arrival Card (SGAC)",
+    "country": "SG",
+    "text": "All travellers entering Singapore, including Singapore residents, must submit the SG Arrival Card with electronic health declaration before arrival. It must be submitted within 3 days before arrival, including the day of arrival. For example, for a 30 June arrival the earliest day to submit is 28 June. Travellers transiting without clearing immigration do not need it. Submission is free on the ICA website or the MyICA mobile app; ICA does not endorse paid third-party services. Travellers who have not submitted it are asked to do so and re-join the immigration queue.",
+    "source": "Immigration & Checkpoints Authority (ICA), SG Arrival Card",
+    "url": "https://www.ica.gov.sg/enter-depart/arriving/overview/sg-arrival-card",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "th-tdac",
+    "title": "Thailand: Thailand Digital Arrival Card (TDAC)",
+    "country": "TH",
+    "text": "Foreign nationals arriving in Thailand by air, land or sea must submit the Thailand Digital Arrival Card online within 3 days before arrival, including the day of arrival. It replaced the paper TM6 card from 1 May 2025. Children and infants need their own card. The official portal is tdac.immigration.go.th and it is free of charge. Thai nationals do not submit the TDAC.",
+    "source": "Royal Thai Embassy, Kuala Lumpur: official announcement on the TDAC",
+    "url": "https://kualalumpur.thaiembassy.org/en/content/official-announcement-tdac-new-entry-requirement-f",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "my-mdac",
+    "title": "Malaysia: Malaysia Digital Arrival Card (MDAC)",
+    "country": "MY",
+    "text": "Most foreign visitors to Malaysia must submit the Malaysia Digital Arrival Card online within 3 days before arrival. Singapore citizens are exempt from the MDAC. Malaysian citizens and permanent residents do not submit it. Exemptions have changed since the MDAC started, so check the Immigration Department of Malaysia's MDAC page before travelling.",
+    "source": "South China Morning Post: Malaysia exempts Singaporeans from digital arrival card (secondary source; confirm on the Immigration Department of Malaysia site)",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3243996/malaysia-exempts-singaporeans-filling-digital-arrival-card",
+    "checked": "2026-11-06"
+  },
+  {
+    "id": "ak-cabin-bag",
+    "title": "AirAsia: cabin baggage",
+    "airline": "AK",
+    "text": "AirAsia allows each passenger 7 kg of cabin baggage in total: one cabin bag and one small personal item. Items bought at the airport count towards the 7 kg, except duty-free items sealed in a security tamper-evident bag. Cabin baggage over the weight or size limit must be checked in. Check the current size limits and checked-bag prices on AirAsia's site before you fly.",
+    "source": "ABS-CBN News: AirAsia statement on cabin baggage (August 2024)",
+    "url": "https://abs-cbn.com/business/2024/8/12/airasia-to-be-stricter-with-carry-on-luggage-1640",
+    "checked": "2026-11-06"
+  }
+]

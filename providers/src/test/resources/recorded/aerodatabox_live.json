@@ -1,0 +1,73 @@
+[
+ {
+  "greatCircleDistance": {
+   "meter": 1409882.49,
+   "km": 1409.88,
+   "mile": 876.06,
+   "nm": 761.28,
+   "feet": 4625598.72
+  },
+  "departure": {
+   "airport": {
+    "icao": "WSSS",
+    "iata": "SIN",
+    "name": "Singapore Changi",
+    "shortName": "Changi",
+    "municipalityName": "Singapore",
+    "location": {
+     "lat": 1.35019,
+     "lon": 103.994
+    },
+    "countryCode": "SG",
+    "timeZone": "Asia/Singapore"
+   },
+   "scheduledTime": {
+    "utc": "2026-12-18 08:00Z",
+    "local": "2026-12-18 16:00+08:00"
+   },
+   "terminal": "1",
+   "quality": [
+    "Basic"
+   ]
+  },
+  "arrival": {
+   "airport": {
+    "icao": "VTBS",
+    "iata": "BKK",
+    "name": "Bangkok Suvarnabhumi",
+    "shortName": "Suvarnabhumi",
+    "municipalityName": "Bangkok",
+    "location": {
+     "lat": 13.681099,
+     "lon": 100.747
+    },
+    "countryCode": "TH",
+    "timeZone": "Asia/Bangkok"
+   },
+   "scheduledTime": {
+    "utc": "2026-12-18 10:35Z",
+    "local": "2026-12-18 17:35+07:00"
+   },
+   "predictedTime": {
+    "utc": "2026-12-18 10:54Z",
+    "local": "2026-12-18 17:54+07:00"
+   },
+   "quality": [
+    "Basic"
+   ]
+  },
+  "lastUpdatedUtc": "2026-09-24 13:43Z",
+  "number": "TR 610",
+  "status": "Expected",
+  "codeshareStatus": "Unknown",
+  "isCargo": false,
+  "aircraft": {
+   "model": "Boeing 787-8"
+  },
+  "airline": {
+   "name": "Scoot",
+   "iata": "TR",
+   "icao": "TGW"
+  }
+ }
+]

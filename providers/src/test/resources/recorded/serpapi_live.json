@@ -1,0 +1,998 @@
+{
+ "best_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 16:00"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 17:35"
+     },
+     "duration": 155,
+     "airplane": "Boeing 787",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 610",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Wi-Fi for a fee",
+      "In-seat power outlet",
+      "Carbon emissions estimate: 104 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 104000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 0
+   },
+   "price": 326,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZeE1Cb0xDS1QrQVJBQ0dnTlRSMFE0SEhDNnhnRT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjEwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 14:25"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 16:00"
+     },
+     "duration": 155,
+     "airplane": "Airbus A321neo",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 688",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "Carbon emissions estimate: 94 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 94000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -10
+   },
+   "price": 407,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZNE9Cb0xDTWk5QWhBQ0dnTlRSMFE0SEhEczl3RT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjg4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 17:40"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 19:15"
+     },
+     "duration": 155,
+     "airplane": "Boeing 787",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 636",
+     "legroom": "30 in",
+     "extensions": [
+      "Average legroom (30 in)",
+      "Wi-Fi for a fee",
+      "In-seat power outlet",
+      "Carbon emissions estimate: 102 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 102000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -2
+   },
+   "price": 407,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZek5ob0xDTWk5QWhBQ0dnTlRSMFE0SEhEczl3RT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjM2Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 19:40"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 21:15"
+     },
+     "duration": 155,
+     "airplane": "Airbus A320neo",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 620",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "Carbon emissions estimate: 101 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 101000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -3
+   },
+   "price": 407,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZeU1Cb0xDTWk5QWhBQ0dnTlRSMFE0SEhEczl3RT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjIwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 15:55"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 17:15"
+     },
+     "duration": 140,
+     "airplane": "Airbus A321neo",
+     "airline": "THAI",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+     "travel_class": "Economy",
+     "flight_number": "TG 414",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Wi-Fi for a fee",
+      "In-seat USB outlet",
+      "On-demand video",
+      "Carbon emissions estimate: 131 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 131000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 26
+   },
+   "price": 546,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVUnpReE5Cb0xDTWlxQXhBQ0dnTlRSMFE0SEhEMXpBST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRHIiwiNDE0Il1dXQ=="
+  }
+ ],
+ "other_flights": [
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 06:40"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 08:15"
+     },
+     "duration": 155,
+     "airplane": "Airbus A320neo",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 608",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "Carbon emissions estimate: 101 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 101000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -3
+   },
+   "price": 472,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZd09Cb0xDS3p3QWhBQ0dnTlRSMFE0SEhDOW53ST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjA4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 09:15"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 10:50"
+     },
+     "duration": 155,
+     "airplane": "Airbus A320neo",
+     "airline": "Scoot",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+     "travel_class": "Economy",
+     "flight_number": "TR 624",
+     "legroom": "28 in",
+     "extensions": [
+      "Below average legroom (28 in)",
+      "Carbon emissions estimate: 101 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 101000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -3
+   },
+   "price": 472,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TR.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVVWpZeU5Cb0xDS3p3QWhBQ0dnTlRSMFE0SEhDOW53ST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRSIiwiNjI0Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 08:15"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 09:35"
+     },
+     "duration": 140,
+     "airplane": "Boeing 777",
+     "airline": "THAI",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+     "travel_class": "Economy",
+     "flight_number": "TG 402",
+     "legroom": "34 in",
+     "extensions": [
+      "Above average legroom (34 in)",
+      "In-seat power outlet",
+      "On-demand video",
+      "Carbon emissions estimate: 133 kg"
+     ]
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 134000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 29
+   },
+   "price": 546,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVUnpRd01ob0xDTWlxQXhBQ0dnTlRSMFE0SEhEMXpBST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRHIiwiNDAyIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 12:25"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 13:45"
+     },
+     "duration": 140,
+     "airplane": "Airbus A350",
+     "airline": "THAI",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+     "travel_class": "Economy",
+     "flight_number": "TG 404",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 116 kg"
+     ]
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 116000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 12
+   },
+   "price": 546,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVUnpRd05Cb0xDTWlxQXhBQ0dnTlRSMFE0SEhEMXpBST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRHIiwiNDA0Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 19:15"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 20:35"
+     },
+     "duration": 140,
+     "airplane": "Airbus A321neo",
+     "airline": "THAI",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+     "travel_class": "Economy",
+     "flight_number": "TG 408",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Wi-Fi for a fee",
+      "In-seat USB outlet",
+      "On-demand video",
+      "Carbon emissions estimate: 131 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 131000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 26
+   },
+   "price": 604,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVUnpRd09Cb0xDUERYQXhBQ0dnTlRSMFE0SEhDazhBST0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRHIiwiNDA4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 21:00"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 22:20"
+     },
+     "duration": 140,
+     "airplane": "Airbus A350",
+     "airline": "THAI",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+     "travel_class": "Economy",
+     "flight_number": "TG 410",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 116 kg"
+     ],
+     "often_delayed_by_over_30_min": true
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 116000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 12
+   },
+   "price": 664,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TG.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZVUnpReE1Cb0xDT0NHQkJBQ0dnTlRSMFE0SEhEdmxBTT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlRHIiwiNDEwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 07:00"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 08:25"
+     },
+     "duration": 145,
+     "airplane": "Airbus A350",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 706",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 109 kg"
+     ]
+    }
+   ],
+   "total_duration": 145,
+   "carbon_emissions": {
+    "this_flight": 109000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 5
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjd05ob0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzA2Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 09:15"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 11:00"
+     },
+     "duration": 165,
+     "airplane": "Boeing 787",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 708",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 87 kg"
+     ]
+    }
+   ],
+   "total_duration": 165,
+   "carbon_emissions": {
+    "this_flight": 87000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -16
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjd09Cb0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzA4Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 10:40"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 12:10"
+     },
+     "duration": 150,
+     "airplane": "Airbus A350",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 722",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 109 kg"
+     ]
+    }
+   ],
+   "total_duration": 150,
+   "carbon_emissions": {
+    "this_flight": 109000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 5
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjeU1ob0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzIyIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 13:15"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 14:35"
+     },
+     "duration": 140,
+     "airplane": "Boeing 787",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 710",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 87 kg"
+     ]
+    }
+   ],
+   "total_duration": 140,
+   "carbon_emissions": {
+    "this_flight": 87000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -16
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjeE1Cb0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzEwIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 15:25"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 17:00"
+     },
+     "duration": 155,
+     "airplane": "Airbus A350",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 712",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 109 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 109000,
+    "typical_for_this_route": 104000,
+    "difference_percent": 5
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjeE1ob0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzEyIl1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 17:10"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 18:45"
+     },
+     "duration": 155,
+     "airplane": "Boeing 787",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 714",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 87 kg"
+     ]
+    }
+   ],
+   "total_duration": 155,
+   "carbon_emissions": {
+    "this_flight": 87000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -16
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjeE5Cb0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzE0Il1dXQ=="
+  },
+  {
+   "flights": [
+    {
+     "departure_airport": {
+      "name": "Singapore Changi Airport",
+      "id": "SIN",
+      "time": "2026-12-18 18:35"
+     },
+     "arrival_airport": {
+      "name": "Suvarnabhumi Airport",
+      "id": "BKK",
+      "time": "2026-12-18 20:00"
+     },
+     "duration": 145,
+     "airplane": "Boeing 787",
+     "airline": "Singapore Airlines",
+     "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+     "travel_class": "Economy",
+     "flight_number": "SQ 720",
+     "legroom": "32 in",
+     "extensions": [
+      "Above average legroom (32 in)",
+      "Free Wi-Fi",
+      "In-seat power & USB outlets",
+      "On-demand video",
+      "Carbon emissions estimate: 87 kg"
+     ]
+    }
+   ],
+   "total_duration": 145,
+   "carbon_emissions": {
+    "this_flight": 87000,
+    "typical_for_this_route": 104000,
+    "difference_percent": -16
+   },
+   "price": 898,
+   "type": "One way",
+   "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/SQ.png",
+   "booking_token": "WyJDalJJWm1KYVlXWmFaRmhEUjJ0QlFVZDVWWGRDUnkwdExTMHRMUzB0TFhaM1ltZHpOVUZCUVVGQlIzSjBNSFZuVFd0ZlIzRkJFZ1ZUVVRjeU1Cb0xDS0M5QlJBQ0dnTlRSMFE0SEhDbW93UT0iLFtbIlNJTiIsIjIwMjYtMTItMTgiLCJCS0siLG51bGwsIlNRIiwiNzIwIl1dXQ=="
+  }
+ ],
+ "price_insights": {
+  "lowest_price": 326,
+  "price_level": "high",
+  "typical_price_range": [
+   165,
+   285
+  ],
+  "price_history": [
+   [
+    1788710400,
+    286
+   ],
+   [
+    1788796800,
+    286
+   ],
+   [
+    1788883200,
+    286
+   ],
+   [
+    1788969600,
+    286
+   ],
+   [
+    1789056000,
+    286
+   ],
+   [
+    1789142400,
+    286
+   ],
+   [
+    1789228800,
+    286
+   ],
+   [
+    1789315200,
+    286
+   ],
+   [
+    1789401600,
+    286
+   ],
+   [
+    1789488000,
+    286
+   ],
+   [
+    1789574400,
+    286
+   ],
+   [
+    1789660800,
+    286
+   ],
+   [
+    1789747200,
+    286
+   ],
+   [
+    1789833600,
+    286
+   ],
+   [
+    1789920000,
+    286
+   ],
+   [
+    1790006400,
+    286
+   ],
+   [
+    1790092800,
+    286
+   ],
+   [
+    1790179200,
+    286
+   ],
+   [
+    1790265600,
+    286
+   ],
+   [
+    1790352000,
+    286
+   ],
+   [
+    1790438400,
+    286
+   ],
+   [
+    1790524800,
+    286
+   ],
+   [
+    1790611200,
+    286
+   ],
+   [
+    1790697600,
+    286
+   ],
+   [
+    1790784000,
+    286
+   ],
+   [
+    1790870400,
+    286
+   ],
+   [
+    1790956800,
+    286
+   ],
+   [
+    1791043200,
+    286
+   ],
+   [
+    1791129600,
+    286
+   ],
+   [
+    1791216000,
+    286
+   ],
+   [
+    1791302400,
+    286
+   ],
+   [
+    1791388800,
+    286
+   ],
+   [
+    1791475200,
+    286
+   ],
+   [
+    1791561600,
+    286
+   ],
+   [
+    1791648000,
+    286
+   ],
+   [
+    1791734400,
+    326
+   ],
+   [
+    1791820800,
+    326
+   ],
+   [
+    1791907200,
+    326
+   ],
+   [
+    1791993600,
+    326
+   ],
+   [
+    1792080000,
+    326
+   ],
+   [
+    1792166400,
+    326
+   ],
+   [
+    1792252800,
+    326
+   ],
+   [
+    1792339200,
+    326
+   ],
+   [
+    1792425600,
+    326
+   ],
+   [
+    1792512000,
+    284
+   ],
+   [
+    1792598400,
+    308
+   ],
+   [
+    1792684800,
+    308
+   ],
+   [
+    1792771200,
+    308
+   ],
+   [
+    1792857600,
+    326
+   ],
+   [
+    1792944000,
+    256
+   ],
+   [
+    1793030400,
+    256
+   ],
+   [
+    1793116800,
+    256
+   ],
+   [
+    1793203200,
+    286
+   ],
+   [
+    1793289600,
+    284
+   ],
+   [
+    1793376000,
+    286
+   ],
+   [
+    1793462400,
+    286
+   ],
+   [
+    1793548800,
+    286
+   ],
+   [
+    1793635200,
+    286
+   ],
+   [
+    1793721600,
+    326
+   ],
+   [
+    1793808000,
+    326
+   ],
+   [
+    1793894400,
+    326
+   ]
+  ]
+ },
+ "airports": [
+  {
+   "departure": [
+    {
+     "airport": {
+      "id": "SIN",
+      "name": "Singapore Changi Airport"
+     },
+     "city": "Singapore",
+     "country": "Singapore",
+     "country_code": "SG",
+     "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPxNDQYUBDKl_Cnb-2R_TakwdFGzKIpvsMBeDdYwNHK_c2jUY6LVQ5R_mwZDf9hOuu6iHgYjrL87eDZw",
+     "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp10Y3G-u5LPBzRWABhOUD7BGcBspacZc2r31UP6QmzLmyprerN-6BZ5wZkdsDXngRuIYCPQI8Ny3uYjbRegATm48AJfppuLgpsc0mhsE"
+    }
+   ],
+   "arrival": [
+    {
+     "airport": {
+      "id": "BKK",
+      "name": "Suvarnabhumi Airport"
+     },
+     "city": "Bangkok",
+     "country": "Thailand",
+     "country_code": "TH",
+     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzC4xB5QxGqhLwOS5u7E8q-Ty8lX8lihfxKD-L1VCamrWDhR52VWvoBnPWydRUr7FEKiKwHfAU0sB9mg",
+     "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-yAxs8ZWNi0M14W-4wO0ra1auEIiVtG0zy-C8CygMmIa2-MVy7L8vSTHNXJJnS_9lq_gL3BVaF6MQh6wBKzXzqexb7CZL29F6UQABXAY"
+    }
+   ]
+  }
+ ]
+}
